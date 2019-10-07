@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="x_in" format="float"/>   <!--表示x轴方向进入屏幕运动的速率是手指滑动的多少倍-->
+    <attr name="x_out" format="float"/> <!--表示x轴方向离开屏幕运动的速率是手指滑动的多少倍-->
+    <attr name="y_in" format="float"/> <!--表示y轴方向进入屏幕运动的速率是手指滑动的多少倍-->
+    <attr name="y_out" format="float"/> <!--表示y轴方向离开屏幕运动的速率是手指滑动的多少倍-->
+    <attr name="a_in" format="float"/> <!--表示进入屏幕透明度变化-->
+    <attr name="a_out" format="float"/> <!--表示离开屏幕透明度变化-->
+</resources>
